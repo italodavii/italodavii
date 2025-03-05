@@ -1,16 +1,16 @@
-# Welcome!
+# Bem Vindo(a)!
 
  
 
-## I'm Italo David
+## Me chamo Italo David
 
  
 
-:computer: I'm Software Engineering Student!
+:computer: Sou estudante de Engenharia de Software!
 
-:house_with_garden: Directly from Brazil.
+:house_with_garden: Diretamente de Santa Catarina - Brasil.
 
-:books: I'm currently learning a lot.
+:books: Chuva de conhecimento dia após dia.
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,4 +27,4 @@
   <a href = "mailto:italodavid6144@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div><br>
 
-😃 - Thanks for visiting.
+😃 - Obrigado pela visita!
